@@ -5,7 +5,7 @@
 -  Ông Thị Hoàng Quyên
 -  Phan Thành Nhân
 
-## Giới Thiệu về đề tài
+## Giới thiệu về đề tài
 
  Quản lý tiệm vàng hiện đại không chỉ là về việc cung cấp sản phẩm chất lượng, mà còn đặt nền móng vào dịch vụ và trải nghiệm khách hàng. Sự linh hoạt trong áp dụng các chiến lược tiếp thị, ưu đãi, cùng với việc đảm bảo an toàn và bảo mật trong giao dịch, là những yếu tố quan trọng giúp tạo ra một môi trường mua sắm tin tưởng và thú vị cho khách hàng.
 
@@ -22,4 +22,4 @@
  - khách hàng thành viên
  - Chủ cửa hàng
  - Nhân viên cửa hàng
- - Quản trị hệ 
+ - Quản trị hệ thống
